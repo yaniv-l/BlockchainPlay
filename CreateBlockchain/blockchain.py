@@ -5,7 +5,7 @@ import hashlib
 from Flask import Flask, jsonify
 
 class Blockchain:
-
+    
     def __init__(self):
         self.chain = {}
         self.create_block(proof = 1, previous_has = '0')
