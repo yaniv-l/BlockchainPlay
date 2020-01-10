@@ -1,0 +1,1 @@
+Playground with bloackchain - create Block, chain and contracts
